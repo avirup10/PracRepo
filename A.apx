@@ -3,4 +3,10 @@ public class A{
     System.debug('DEMO');
     System.debug('This is the GIT TEST');
     }
+  public void doMul(){
+    integer a=10;
+    integer b=20;
+    integer c=a*b;
+    System.debug(c);
+  }
   }
