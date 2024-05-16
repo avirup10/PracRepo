@@ -2,4 +2,10 @@ public class A{
   public void disp(){
     System.debug('DEMO');
     }
+  public void doMul(){
+    integer a=10;
+    integer b=20;
+    integer c=a*b;
+    System.debug(c);
+  }
   }
