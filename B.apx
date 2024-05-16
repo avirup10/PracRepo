@@ -1,0 +1,5 @@
+public class B{
+	public void Res(){
+	  System.debug('This is from Branch 1');
+	}
+}
